@@ -8,7 +8,7 @@ To start adding the Amplify Libraries to your iOS project, open your project in 
 
 Enter the Amplify iOS GitHub repo URL (`https://github.com/aws-amplify/amplify-ios`) into the search bar and click **Next**.
 
-![Search for repo](~/images/project-setup/20_5_search-amplify-repo.png)
+![Search for repo](~/images/project-setup/spm-setup-03-dependency-version-options.png)
 
 You'll see the Amplify iOS repository rules for which version of Amplify you want Swift Package Manager to install. Choose the first rule, **Version**, and select Up to Next Minor as it will use the latest compatible version of the dependency that can be detected from the `main` branch, then click **Next**.
 
